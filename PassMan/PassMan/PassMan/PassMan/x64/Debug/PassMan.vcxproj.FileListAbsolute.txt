@@ -1,0 +1,6 @@
+C:\Users\Shivam\Desktop\PassMan\PassMan\PassMan\PassMan\x64\Debug\PassMan.vcxproj.AssemblyReference.cache
+C:\Users\Shivam\Desktop\PassMan\PassMan\PassMan\PassMan\x64\Debug\PassMan.Login.resources
+C:\Users\Shivam\Desktop\PassMan\PassMan\PassMan\PassMan\x64\Debug\PassMan.Main.resources
+C:\Users\Shivam\Desktop\PassMan\PassMan\PassMan\PassMan\x64\Debug\PassMan.REGIS.resources
+C:\Users\Shivam\Desktop\PassMan\PassMan\PassMan\PassMan\x64\Debug\PassMan.welcome.resources
+C:\Users\Shivam\Desktop\PassMan\PassMan\PassMan\PassMan\x64\Debug\PassMan.vcxproj.GenerateResource.cache
